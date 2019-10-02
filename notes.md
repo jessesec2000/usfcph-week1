@@ -7,3 +7,5 @@ Push and Pull – To push is to publish and pulling is downloading from data fil
 Branch – keeping track of different things on your computer. Making a copy of your own work on your computer so you can merge the data as needed
 Front end – user interaction
 Back end – back of the house
+UI=User interface that is akin to a Decorator of the app
+UX = concerned with the experience
